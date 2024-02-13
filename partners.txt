@@ -2,7 +2,7 @@ team: Panthers
 ​
 manager: MainSebastian
 
-coach : Teddy
+coach : Conlict-2Teddy
 ​
 members:
 - Violet
